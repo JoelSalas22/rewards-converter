@@ -1,0 +1,43 @@
+repo_name: JoelSalas22/rewards-converter
+report_id: '08d67c4d88960d5a6634190f52ac269b'
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-06T22:30:06+00:00'
+requested_by: josiahdc
+provider: github
+branch: flow
+detected_tools_count: 3
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/JoelSalas22/rewards-converter
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/JoelSalas22/rewards-converter
+  detection_source: Repo Metadata
+- name: org.junit.jupiter:junit-jupiter
+  description: Module "junit-jupiter" of JUnit 5
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/JoelSalas22/rewards-converter/blob/flow/pom.xml
+  detection_source: pom.xml
+  last_updated_by: josiah
+  last_updated_on: 2023-01-30 04:19:04.000000000 Z
